@@ -1,0 +1,33 @@
+input{
+    margin: 7px;
+}
+h2{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: rgb(133, 177, 226);
+    border: 2px groove black;
+    background-color: gold;
+}
+p{
+    font-family: 'Itim', cursive;
+    margin: 12px;
+}
+button{
+    margin-left: 22px;
+}
+.page-footer{
+    background-color: lightblue;
+    width: 100%;
+}
+
+.page{
+    text-align: center;
+    }
+
+.col{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    color: black;
+}

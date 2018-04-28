@@ -1,0 +1,19 @@
+footer{
+    background-color: lightgreen;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 20px;
+    text-align: center; 
+}
+.centpourcent{
+    width: 100%;
+}
+body{
+    font-family: 'Black Han Sans', sans-serif;
+}
+h1 , h2 , h3 , h4{
+    font-family: 'Indie Flower', cursive;
+} 
+.Partcrud{
+    display: flex;
+    justify-content: space-around;
+}

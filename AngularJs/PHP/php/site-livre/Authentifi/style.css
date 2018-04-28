@@ -1,0 +1,9 @@
+body{
+    font-family: 'Black Han Sans', sans-serif;
+}
+h1 , h2 , h3 , h4{
+    font-family: 'Indie Flower', cursive;
+} 
+fieldset{
+    width: 90%;
+}

@@ -1,0 +1,9 @@
+footer{
+    background-color: lightgreen;
+    font-family: 'IBM Plex Mono', monospace;
+    padding: 20px;
+    text-align: center; 
+}
+.centpourcent{
+    width: 100%;
+}

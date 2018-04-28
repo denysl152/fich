@@ -1,0 +1,7 @@
+use Symfony\Component\Routing\Annotations\Route;
+
+
+/**
+ * @Route ("/");
+ * @Method({("GET")})
+ */

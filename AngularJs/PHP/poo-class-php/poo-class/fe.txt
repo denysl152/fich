@@ -1,0 +1,25 @@
+//3EME Perso
+
+
+$Alpha = new Perso("Alpha");
+var_dump($Alpha);
+
+//4EME Perso
+
+$Brook = new Perso("Brook");
+var_dump($Brook);
+
+
+
+
+
+
+
+
+/*echo " Yakari : ";
+  print_r ($Yakari); 
+echo "---------Versus--------- ";
+echo " Jack : ";
+print_r($Jack);
+*/
+

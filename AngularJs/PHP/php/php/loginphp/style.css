@@ -1,0 +1,33 @@
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-family: 'Tajawal', sans-serif; 
+}
+body{
+    background-color: #eee;
+}
+#frm{
+    border: 1px solid gray;
+    width:20%;
+    border-radius: 8px;
+    margin: 100px auto;
+    background: white;
+    padding: 50px;
+}
+#btn{
+    color:#fff;
+    background: #337ab7;
+    padding: 5px;
+    margin-left: 69%;
+}
+
+/*.PageAdmin{
+    font-family: 'Tajawal', sans-serif;
+    margin-left: 100px;
+    padding: 10px;
+}
+.Titre{
+    font-family: 'Tajawal', sans-serif; 
+}*/
